@@ -21,3 +21,8 @@ include/
 .tags*
 include/mavlink/v1.0
 *.pyc
+/eeprom.bin
+/mav.parm
+/mav.tlog
+/mav.tlog.raw
+/*.out
